@@ -8,9 +8,12 @@ df
 sd
 asdas
 # Implementáció
-
-
-    ##asdasda 
-    Đasdasd
+    1.asda  
+    2.  asfasf
+    3.asfasfa
+sadasda
+   asdas
+   asdas
+asdasd
 # Tesztelés
 # Felhasználói dokumentáció
