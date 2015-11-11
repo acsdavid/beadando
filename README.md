@@ -2,7 +2,8 @@
 beadndo leirasa - szerveroldali alkalmazas fejlesztése 
 sdf
 sd
-fsd
+# fsd
 fs
 df
 sd
+asdas
