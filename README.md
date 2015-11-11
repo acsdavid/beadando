@@ -1,9 +1,16 @@
-# beadando
+# Követelményanalízis
 beadndo leirasa - szerveroldali alkalmazas fejlesztése 
 sdf
 sd
-# fsd
+# Tervezés
 fs
 df
 sd
 asdas
+# Implementáció
+
+
+    ##asdasda 
+    Đasdasd
+# Tesztelés
+# Felhasználói dokumentáció
