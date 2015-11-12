@@ -3,10 +3,6 @@
 ## Követelményanalízis
 
 
-*This text will be italic*
-**This text will be bold**
-
-
 #### 1. Követelmények:
 Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait és bevételeit. A weboldalon jelenjelen meg egy alkalmazás, mely egységesen a kiadás és bevétel táblázat formájában.
 - A weboldalon megtalálható alkalmazással szemben támasztott funkcionális követelmények a kiadások és bevételek egy közös táblában való megjelenítése. Csak a bejelentkezett felhasználók számára legyen elérhető weboldalon lévő alkalmazás
@@ -90,11 +86,12 @@ figyelembe kell venni.
                 --kép --
 
 #### 5. Implementáció
-    C9.io által biztosított szerveren történik a fejlesztés. Használt nyelvek technológiák és módszerek: Node.js, JQuery, JavaScript, HTML, .hbs, bower, .json.
+C9.io által biztosított szerveren történik a fejlesztés. 
+Használt nyelvek technológiák és módszerek: Node.js, JQuery, JavaScript, HTML, .hbs, bower, .json.
    
  
 #### 6. Tesztelés
-A oldalon egységteszttet fogunk végrehajtani, mely által a modelleket tudjuk tesztelni. Többféle módunk van tesztelni, de mi a 'mocha' teszt keretrendszert és a 'chai' ellenőrző könyvtár segítségével fogjuk véghez vinni. Teszt keretrendszer futtatáse előtt telepítésre van szükségünk.
+A oldalon egységteszttet fogunk végrehajtani, mely által a modelleket tudjuk tesztelni. Többféle módunk van tesztelni, de mi a 'mocha' teszt keretrendszert és a 'chai' ellenőrző könyvtár segítségével fogjuk véghez vinni. Teszt keretrendszer futtatása előtt telepítésre van szükségünk.
 
 #### 7. Felhasználói dokumentáció
     Futtatáshoz ajánlott hardver, windows 7, minimum 1 TB RAM. Böngészőprogram(Chrome, Firefox, IE7), melyen futtatható C9 weboldal, amely által elérhető a megírt alkalmazás. 
