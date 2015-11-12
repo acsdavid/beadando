@@ -8,9 +8,9 @@ Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait �
 - A weboldalnak legyen szép dinamikus felülete
 
 ```
-Fejlesztési módszertan:
+** Fejlesztési módszertan:** 
     Egységesített Eljárás
-A fejlesztéshez szükséges hardver:
+** A fejlesztéshez szükséges hardver:** 
     CPU: Pentium 4, RAM: 512 GB, videó: 1024x768
 A fejlesztéshez használt szoftverek:
     Operációs rendszer: Windows 7.
