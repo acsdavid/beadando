@@ -81,7 +81,7 @@ leírását tartalmazza. A megrendelő számára is érthető termék, mely seg�
 fejlesztő közti kommunikációt. A használati eseteket a teljes fejlesztési folyamat során
 figyelembe kell venni.
 
-* Osztálymodell:
+* Osztálymodell, mely tartalmazza az adat- és adatbázismodellt:
      - Adatmodell: 
                 ![Kép felirata](images/kep2.png)
      - Adatbázismodell:
@@ -96,6 +96,7 @@ Használt nyelvek technológiák és módszerek: Node.js, JQuery, JavaScript, HT
 A oldalon egységteszttet fogunk végrehajtani, mely által a modelleket tudjuk tesztelni. Többféle módunk van tesztelni, de mi a 'mocha' teszt keretrendszert és a 'chai' ellenőrző könyvtár segítségével fogjuk véghez vinni. Teszt keretrendszer futtatása előtt telepítésre van szükségünk.
 Telepítést követően létrehozhatunk különböző teszteseteket. Jelen esetben a teszt tartalmazza a tesztfelhasználót (Gipsz Jakab), aki probál belépni jó és rossz jelszóval, a kezdőoldalunk címe megyegyezik-e a tesztesetnél leírtakkal, hitelesítést stb.
     ![Kép felirata](images/teszt sikeres.png)
+    
 Funkcionális teszteléshez szükségünk volt a zombie.js által nyújtott teszt keretrendszerre. 
 
 #### 7. Felhasználói dokumentáció
