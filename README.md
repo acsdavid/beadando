@@ -14,6 +14,7 @@ Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait �
 
 >######**Fejlesztési módszertan:** 
 Egységesített Eljárás
+
 ######A fejlesztéshez szükséges hardver:
 CPU: Pentium 4, RAM: 512 GB, videó: 1024x768
 ** *A fejlesztéshez használt szoftverek:**
