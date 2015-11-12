@@ -83,7 +83,7 @@ leírását tartalmazza. A megrendelő számára is érthető termék, mely seg�
 fejlesztő közti kommunikációt. A használati eseteket a teljes fejlesztési folyamat során
 figyelembe kell venni.
 
-*Osztálymodell:
+* Osztálymodell:
      - Adatmodell: 
                 ---KÉP ADATMODELL--
      - Adatbázismodell:
@@ -94,6 +94,8 @@ figyelembe kell venni.
    
  
 #### 6. Tesztelés
+A oldalon egységteszttet fogunk végrehajtani, mely által a modelleket tudjuk tesztelni. Többféle módunk van tesztelni, de mi a 'mocha' teszt keretrendszert és a 'chai' ellenőrző könyvtár segítségével fogjuk véghez vinni. Teszt keretrendszer futtatáse előtt telepítésre van szükségünk.
+
 #### 7. Felhasználói dokumentáció
     Futtatáshoz ajánlott hardver, windows 7, minimum 1 TB RAM. Böngészőprogram(Chrome, Firefox, IE7), melyen futtatható C9 weboldal, amely által elérhető a megírt alkalmazás. 
     [Absolute README link](http://kepshop.hu/userfiles/image/Szolg%C3%A1ltat%C3%A1sok%20men%C3%BC%20KS%20k%C3%A9p.jpg)
