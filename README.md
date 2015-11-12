@@ -13,19 +13,19 @@ Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait �
 - A weboldalnak legyen szép dinamikus felülete
 
 >**Fejlesztési módszertan:** 
-    Egységesített Eljárás
-** *A fejlesztéshez szükséges hardver:** 
-    CPU: Pentium 4, RAM: 512 GB, videó: 1024x768
+Egységesített Eljárás
+**A fejlesztéshez szükséges hardver:** 
+CPU: Pentium 4, RAM: 512 GB, videó: 1024x768
 ** *A fejlesztéshez használt szoftverek:**
-    Operációs rendszer: Windows 7.
-    Követelmény elemzés: Github szövegszerkesztővel
-    Fejlesztőeszköz: Node.js
+Operációs rendszer: Windows 7.
+Követelmény elemzés: Github szövegszerkesztővel
+Fejlesztőeszköz: Node.js
 **A futtatáshoz szükséges operációs rendszer:**
-    Tetszőleges operációs rendszer, melyhez létezik JRE 6 implementáció
+Tetszőleges operációs rendszer, melyhez létezik JRE 6 implementáció
 **A futtatáshoz szükséges hardver:**
-    Windows, Linux, Cloud9
+Windows, Linux, Cloud9
 **Egyéb követelmények:**
-    Design-os felhasználói felület, könnyű kezelhetőség
+Design-os felhasználói felület, könnyű kezelhetőség
 
     
 #### 2. Szakterületi fogalomjegyzék:
