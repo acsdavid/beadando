@@ -39,12 +39,12 @@ Az oldalon két szerepkörű felhasználó van. A felhasználó és a vendég. V
 * Architektúra terv:
 A bejelentkezési adatok szerveoldalon történnek eltárolásra, így amikor a felhasználó bejelentkezni készül, az oldal az adatbázisból lekéri a szükséges adatokat, megnézi helyességét, majd helyesség alapján dönt.
 Végpontok listája:
-/login
-/login/signup
-/errors/list
-/errors/new
-/errors/update/{id}
-/errors/delete/{id}
+- /login
+- /login/signup
+- /errors/list
+- /errors/new
+- /errors/update/{id}
+- /errors/delete/{id}
 * Felhasználóifelület-modell
 leírását tartalmazza. A megrendelő számára is érthető termék, mely segíti a megrendelő és a
 fejlesztő közti kommunikációt. A használati eseteket a teljes fejlesztési folyamat során
