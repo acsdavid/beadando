@@ -11,6 +11,9 @@
 Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait és bevételeit. A weboldalon jelenjelen meg egy alkalmazás, mely egységesen a kiadás és bevétel táblázat formájában.
 - A weboldalon megtalálható alkalmazással szemben támasztott funkcionális követelmények a kiadások és bevételek egy közös táblában való megjelenítése. Csak a bejelentkezett felhasználók számára legyen elérhető weboldalon lévő alkalmazás
 - A weboldalnak legyen szép dinamikus felülete
+- Felhasználóbarát, ergonomikus elrendezés és kinézet.
+- Gyors működés.
+- Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés.
 
 >**Fejlesztési módszertan:** 
 Egységesített Eljárás
