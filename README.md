@@ -89,20 +89,11 @@ figyelembe kell venni.
      - Adatbázismodell:
                 --kép --
 
-## Tervezés
-
-fs
-df
-sd
-asdas
-
-## Implementáció
-    1.asda  
-    2.  asfasf
-    3.asfasfa
-sadasda
-   asdas
-   asdasxxxasdasdasdrrrrrrrrrrrrrr
-asdasd
-## Tesztelés
-## Felhasználói dokumentáció
+#### 5. Implementáció
+    C9.io által biztosított szerveren történik a fejlesztés. Használt nyelvek technológiák és módszerek: Node.js, JQuery, JavaScript, HTML, .hbs, bower, .json.
+   
+ 
+#### 6. Tesztelés
+#### 7. Felhasználói dokumentáció
+    Futtatáshoz ajánlott hardver, windows 7, minimum 1 TB RAM. Böngészőprogram(Chrome, Firefox, IE7), melyen futtatható C9 weboldal, amely által elérhető a megírt alkalmazás. 
+    [Absolute README link](http://kepshop.hu/userfiles/image/Szolg%C3%A1ltat%C3%A1sok%20men%C3%BC%20KS%20k%C3%A9p.jpg)
