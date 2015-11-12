@@ -15,14 +15,12 @@ Az ügyfél szeretne egy olyan weboldalt, melyen online vezetheti a kiadásait �
 >**Fejlesztési módszertan:** 
 Egységesített Eljárás
 
-A fejlesztéshez szükséges hardver:
+**A fejlesztéshez szükséges hardver:**
 CPU: Pentium 4, RAM: 512 GB, videó: 1024x768
-
 **A fejlesztéshez használt szoftverek:**
 Operációs rendszer: Windows 7.
 Követelmény elemzés: Github szövegszerkesztővel
 Fejlesztőeszköz: Node.js
-
 **A futtatáshoz szükséges operációs rendszer:**
 Tetszőleges operációs rendszer, melyhez létezik JRE 6 implementáció
 **A futtatáshoz szükséges hardver:**
