@@ -1,3 +1,5 @@
+-----
+
 ####ELTE IK - Ács Dávid - GWOZ03 - Alkalmazások fejlesztése - 2. beadandó
 
 -----
@@ -53,7 +55,7 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
 - Használatieset-diagram 
 
-![Usecase](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/usecase.png "")
+![Usecase](http://imgur.com/5dJ0PSd "")
 -----
 
 ###Tervezés
@@ -77,33 +79,29 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
    Főoldal 
    
-   ![Index](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/index.png "")
-   
-   Regisztráció 
-   
-   ![Registration](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/registration.png "")
+   ![Index](http://imgur.com/VXMNw45 "")
 
    Vizsgák oldal 
    
-   ![SubjList](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/subj_list.png "")
+   ![SubjList](http://imgur.com/Xtw2SYD "")
 
    Vizsga felvétele oldal 
    
-   ![NewSubj](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/new_subj.png "")
+   ![NewSubj](http://imgur.com/EQiWyPV "")
    
    Rólunk
    
-   ![About](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/about.png "")
+   ![About](http://imgur.com/14Cn4xi "")
 
 ####3. Osztálymodell
 
 - Osztálymodell 
 
-![Classdia](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/calss_dia.png "")
+![Classdia](http://imgur.com/NLpbe0O "")
 
 ####4. Dinamikus működés
 
-![Dynamic](https://raw.githubusercontent.com/Th3Scr34m/b4xd3v_bead3/master/docs/images/dynamic.png)
+![Dynamic](http://imgur.com/NLpbe0O "")
 
 -----
 
