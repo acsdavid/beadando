@@ -31,11 +31,11 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
 ###Fogalomjegyzék
 
-- `subject` - A tantárgy adatait tároló objektum
-  - `name` -  A tantárgy neve, string
-  - `size` - A tantárgy férőhelyeinek száma, int
-  - `location` - A tantárgy helyszíne, string
-  - `teacher` - A tantárgy előadója, string
+- `exam` - A vizsga adatait tároló objektum
+  - `name` -  A vizsga neve, string
+  - `size` - A vizsga férőhelyeinek száma, int
+  - `location` - A vizsga helyszíne, string
+  - `teacher` - A vizsga előadója, string
 
 - `user` - Felhasználó
   - `neptun` - A felhasználó Neptun kódja
@@ -44,10 +44,10 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
   - `forename` - A felhasználó keresztneve
   - `email` - A felhasználó e-mail címe
  
-- `list` - A tantárgyak listája
-- `new` - Új tantárgy felvétele - űrlap
-- `update` - Egy már létező tantárgy módosítása - űrlap
-- `delete` - Egy már létező tantárgy törlése
+- `list` - A vizsgák listája
+- `new` - Új vizsga felvétele - űrlap
+- `update` - Egy már létező vizsga módosítása - űrlap
+- `delete` - Egy már létező vizsga törlése
 
 -----
 
@@ -71,8 +71,8 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
  - Végpontok
    - `/` - Főoldal
    - `/registration` - Regisztráció
-   - `subjects/list` - Vizsgák oldal
-   - `subjects/new` - Vizsga felvétele oldal
+   - `exams/list` - Vizsgák oldal
+   - `exams/new` - Vizsga felvétele oldal
    - `/about` - Rólunk       
         
 ####2. Felhasználói felület
