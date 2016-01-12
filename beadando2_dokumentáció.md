@@ -2,7 +2,7 @@
 
 -----
 
-##Dokumentáció - ["2. NEPTUM"](https://github.com/horvathgyozo/alkfejl_minta)
+##Dokumentáció - ["2.beadandó - NEPTUM"](https://github.com/horvathgyozo/alkfejl_minta)
 
 ###Követelmények
 
