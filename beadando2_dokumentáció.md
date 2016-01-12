@@ -55,7 +55,7 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
 - Használatieset-diagram 
 
-![Usecase](images/bead2/usecase.png)
+![Usecase](imagesforbead2/usecase.png)
 -----
 
 ###Tervezés
@@ -79,29 +79,29 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
    Főoldal 
    
-   ![Index](images/bead2/fooldal.png)
+   ![Index](imagesforbead2/fooldal.png)
 
    Vizsgák oldal 
    
-   ![ExamList](images/bead2/vizsgák.png)
+   ![ExamList](imagesforbead2/vizsgák.png)
 
    Vizsga felvétele oldal 
    
-   ![NewExam](images/bead2/ujvizsga.png)
+   ![NewExam](imagesforbead2/ujvizsga.png)
    
    Rólunk
    
-   ![About](images/bead2/rolunk.png)
+   ![About](imagesforbead2/rolunk.png)
 
 ####3. Osztálymodell
 
 - Osztálymodell 
 
-![Classdia](images/bead2/calss_dia.png)
+![Classdia](imagesforbead2/calss_dia.png)
 
 ####4. Dinamikus működés
 
-![Dynamic](images/bead2/dynamic.png)
+![Dynamic](imagesforbead2/dynamic.png)
 
 -----
 
