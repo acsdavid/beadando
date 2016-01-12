@@ -55,7 +55,7 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
 - Használatieset-diagram 
 
-![Usecase](http://imgur.com/5dJ0PSd "")
+![Usecase](images/bead2/usecase.png)
 -----
 
 ###Tervezés
@@ -79,29 +79,29 @@ Az oldalnak a kezelése egyszerűnek, letisztultnak és könnyen elsajátíthat�
 
    Főoldal 
    
-   ![Index](http://imgur.com/VXMNw45 "")
+   ![Index](images/bead2/fooldal.png)
 
    Vizsgák oldal 
    
-   ![SubjList](http://imgur.com/Xtw2SYD "")
+   ![ExamList](images/bead2/vizsgák.png)
 
    Vizsga felvétele oldal 
    
-   ![NewSubj](http://imgur.com/EQiWyPV "")
+   ![NewExam](images/bead2/ujvizsga.png)
    
    Rólunk
    
-   ![About](http://imgur.com/14Cn4xi "")
+   ![About](images/bead2/rolunk.png)
 
 ####3. Osztálymodell
 
 - Osztálymodell 
 
-![Classdia](http://imgur.com/NLpbe0O "")
+![Classdia](images/bead2/calss_dia.png)
 
 ####4. Dinamikus működés
 
-![Dynamic](http://imgur.com/NLpbe0O "")
+![Dynamic](images/bead2/dynamic.png)
 
 -----
 
